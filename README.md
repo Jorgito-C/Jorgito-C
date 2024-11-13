@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Jorge Ceballos Gomez and I'm a student at Rutgers University studying CS.
+I'm currently learning more about Python.
+⚡ Fun Fact: I'm a student-athlete.
